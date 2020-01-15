@@ -2,7 +2,7 @@
   author='du'
   date='2020/1/14 21:51'
 */
-package main
+package flowtest
 
 import (
 	"fmt"
